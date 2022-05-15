@@ -3,4 +3,5 @@
 * [Test Driving FreeSWITCH example configuration](https://github.com/Omid-Mohajerani/freeswitch/wiki/Test-Driving-FreeSWITCH-example-configuration)
 * [XML tutorial For FreeSWITCH](https://github.com/Omid-Mohajerani/freeswitch/wiki/XML-tutorial-for-FreeSWITCH)
 * [Regular Expressions Tutorial for FreeSWITCH](https://github.com/Omid-Mohajerani/freeswitch/wiki/Regular-Expressions-Tutorial-for-FreeSWITCH) 
+* [FreeSWITCH User Directory](https://github.com/Omid-Mohajerani/freeswitch/wiki/FreeSWITCH-User-Directory)
 
