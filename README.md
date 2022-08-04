@@ -4,4 +4,5 @@
 * [XML tutorial For FreeSWITCH](https://github.com/Omid-Mohajerani/freeswitch/wiki/XML-tutorial-for-FreeSWITCH)
 * [Regular Expressions Tutorial for FreeSWITCH](https://github.com/Omid-Mohajerani/freeswitch/wiki/Regular-Expressions-Tutorial-for-FreeSWITCH) 
 * [FreeSWITCH User Directory](https://github.com/Omid-Mohajerani/freeswitch/wiki/FreeSWITCH-User-Directory)
+* [Learn FreeSWITCH part 6 SIP Profile, Directory and Dialplan](https://github.com/Omid-Mohajerani/freeswitch/wiki/Learn-FreeSWITCH-part-6---SIP-Profile,-Directory-and-Dialplan)
 
