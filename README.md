@@ -5,4 +5,5 @@
 * [Regular Expressions Tutorial for FreeSWITCH](https://github.com/Omid-Mohajerani/freeswitch/wiki/Regular-Expressions-Tutorial-for-FreeSWITCH) 
 * [FreeSWITCH User Directory](https://github.com/Omid-Mohajerani/freeswitch/wiki/FreeSWITCH-User-Directory)
 * [Learn FreeSWITCH part 6 SIP Profile, Directory and Dialplan](https://github.com/Omid-Mohajerani/freeswitch/wiki/Learn-FreeSWITCH-part-6---SIP-Profile,-Directory-and-Dialplan)
+* [Learn FreeSWITCH part 7 How to add SIP Trunk ( Gateway)](https://github.com/Omid-Mohajerani/freeswitch/wiki/Learn-FreeSWITCH-part-7----How-to-add-SIP-Trunk-(-Gateway))
 
