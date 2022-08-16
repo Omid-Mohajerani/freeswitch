@@ -7,4 +7,4 @@
 * [Learn FreeSWITCH - part 6 - SIP Profile, Directory and Dialplan](https://github.com/Omid-Mohajerani/freeswitch/wiki/Learn-FreeSWITCH-part-6---SIP-Profile,-Directory-and-Dialplan)
 * [Learn FreeSWITCH - part 7 - How to add SIP Trunk ( Gateway)](https://github.com/Omid-Mohajerani/freeswitch/wiki/Learn-FreeSWITCH-part-7----How-to-add-SIP-Trunk-(-Gateway))
 * [Learn FreeSWITCH - part 9 - Bridge Application](https://github.com/Omid-Mohajerani/freeswitch/wiki/Learn-FreeSWITCH-Part-9-Bridge-Application)
-* [FreeSWITCH high availability Configuration - Part 1 - PostgreSQL in the core](https://github.com/Omid-Mohajerani/freeswitch/wiki/FreeSWITCH-high-availability-Configuration-Part-1----PostgreSQL-in-the-core)
+* [FreeSWITCH High Availability Configuration - Part 1 - PostgreSQL in the core](https://github.com/Omid-Mohajerani/freeswitch/wiki/FreeSWITCH-High-Availability-Configuration-Part-1----PostgreSQL-in-the-core)
