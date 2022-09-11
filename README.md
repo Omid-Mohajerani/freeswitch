@@ -10,5 +10,5 @@
 * [Learn FreeSWITCH - Part 10 - Record And Speak](https://github.com/Omid-Mohajerani/freeswitch/wiki/Learn-FreeSWITCH-Part-10-Record-And-Speak)
 
 ***
-
+* [FreeSWITCH Phrase Macro explained. ](https://www.youtube.com/watch?v=FEFRs7mWZHE)
 * [FreeSWITCH High Availability Configuration - Part 1 - PostgreSQL in the core](https://github.com/Omid-Mohajerani/freeswitch/wiki/FreeSWITCH-High-Availability-Configuration-Part-1----PostgreSQL-in-the-core)
