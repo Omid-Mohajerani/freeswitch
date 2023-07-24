@@ -12,3 +12,4 @@
 ***
 * [FreeSWITCH Phrase Macro explained. ](https://www.youtube.com/watch?v=FEFRs7mWZHE)
 * [FreeSWITCH High Availability Configuration - Part 1 - PostgreSQL in the core](https://github.com/Omid-Mohajerani/freeswitch/wiki/FreeSWITCH-High-Availability-Configuration-Part-1----PostgreSQL-in-the-core)
+* [Ansible playbook for FreeSWITCH installation on Debian 10/11](https://github.com/Omid-Mohajerani/freeswitch/blob/main/Ansilbe-FreeSWITCH-Installation.yml)
