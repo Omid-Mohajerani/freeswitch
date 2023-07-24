@@ -1,0 +1,61 @@
+# Ansilbe playbook to install Freeswitch on Debian 10 and 11 
+# by Omid Mohajerani
+- name: Install Freeswitch s  (state=present is optional)
+  vars:
+    signalwire_freeswitch_key: pat_cF3Hvp5iFpsQFoA5Egk4Dgqf
+  hosts: all
+  remote_user: root
+  tasks:
+    - name: Installing prequisites
+      ansible.builtin.apt:
+        name:
+        - gnupg2
+        - wget
+        - lsb-release
+        update_cache: yes
+    - name: Fetch  FreeSWITCH GPG key
+      get_url:
+        url: https://freeswitch.signalwire.com/repo/deb/debian-release/signalwire-freeswitch-repo.gpg
+        username: signalwire
+        password: '{{ signalwire_freeswitch_key }}'
+        dest: /usr/share/keyrings/signalwire-freeswitch-repo.gpg
+      when: ansible_os_family == 'Debian' and ansible_distribution_major_version|int >= 9
+     
+    - name: Auth Directory Creation 
+      ansible.builtin.file:
+        path: /etc/apt/auth.conf.d
+        state: directory
+        mode: '0755'
+      when: ansible_os_family == 'Debian' and ansible_distribution_major_version|int >= 9
+
+    - name: Createing apt auth.conf.d 
+      ansible.builtin.copy:
+        dest: /etc/apt/auth.conf.d/freeswitch.conf
+        owner: root
+        group: root
+        mode: '0700'
+        content: 'machine freeswitch.signalwire.com login signalwire password {{ signalwire_freeswitch_key }}'
+      when: ansible_os_family == 'Debian' and ansible_distribution_major_version|int >= 9
+     
+    - name: "Add SignalWire FreeSWITCH repo"
+      ansible.builtin.apt_repository:
+        repo: deb [signed-by=/usr/share/keyrings/signalwire-freeswitch-repo.gpg] https://freeswitch.signalwire.com/repo/deb/debian-release/ {{ ansible_distribution_release }} main
+        state: present
+        filename: freeswitch
+      when: ansible_os_family == 'Debian' and ansible_distribution_major_version|int >= 9
+
+    - name: Installing FreeSWITCH
+      ansible.builtin.apt:
+        name:
+        - freeswitch-meta-all
+        update_cache: yes
+
+    - name: Start service httpd, if not started
+      ansible.builtin.service:
+        name: freeswitch
+        enabled: true
+        state: started
+
+
+
+  
