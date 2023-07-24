@@ -1,12 +1,12 @@
 # Ansilbe playbook to install Freeswitch on Debian 10 and 11 
 # Update signalwire_freeswitch_key with your token from SignalWire 
-- name: Install Freeswitch s  (state=present is optional)
+- name: Install Freeswitch 
   vars:
     signalwire_freeswitch_key: pat_cF3Hvp5iFpsQFoA5Egk4Dgqf
   hosts: all
   remote_user: root
   tasks:
-    - name: Installing prequisites
+    - name: Installing prerequisites
       ansible.builtin.apt:
         name:
         - gnupg2
