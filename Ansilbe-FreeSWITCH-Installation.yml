@@ -1,4 +1,5 @@
 # Ansilbe playbook to install Freeswitch on Debian 10 and 11 
+# Update signalwire_freeswitch_key with your token from SignalWire 
 # by Omid Mohajerani
 - name: Install Freeswitch s  (state=present is optional)
   vars:
