@@ -8,6 +8,7 @@
 * [Learn FreeSWITCH - part 7 - How to add SIP Trunk ( Gateway)](https://github.com/Omid-Mohajerani/freeswitch/wiki/Learn-FreeSWITCH-part-7----How-to-add-SIP-Trunk-(-Gateway))
 * [Learn FreeSWITCH - part 9 - Bridge Application](https://github.com/Omid-Mohajerani/freeswitch/wiki/Learn-FreeSWITCH-Part-9-Bridge-Application)
 * [Learn FreeSWITCH - Part 10 - Record And Speak](https://github.com/Omid-Mohajerani/freeswitch/wiki/Learn-FreeSWITCH-Part-10-Record-And-Speak)
+* [Signalwire as gateway for FusionPBX](https://www.patreon.com/posts/signalwire-as-89376973?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
 
 ***
 * [FreeSWITCH Phrase Macro explained. ](https://www.youtube.com/watch?v=FEFRs7mWZHE)
