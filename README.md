@@ -16,3 +16,4 @@
 * [Ansible playbook for FreeSWITCH installation on Debian 10/11](https://github.com/Omid-Mohajerani/freeswitch/blob/main/Ansilbe-FreeSWITCH-Installation.yml)
 * [SIP Registration Troubleshooting in FreeSWITCH](https://github.com/Omid-Mohajerani/freeswitch/wiki/Basic-SIP-Registration-Troubleshooting-in-FreeSWITCH)
 * [FreeSWITCH , TWILIO Elastic SIP Trunk integration](https://www.youtube.com/watch?v=iHGm9VvdElg&list=PLcrU7LQXdqpezY3jiVuKMQhbd0Brafz1D&index=17)
+* [Twilio SIP Domains, FreeSWITCH integration](https://www.youtube.com/watch?v=ETjanxeQVNI&list=PLcrU7LQXdqpezY3jiVuKMQhbd0Brafz1D&index=20)
