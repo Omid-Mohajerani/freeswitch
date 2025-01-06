@@ -1,5 +1,5 @@
 * [FreeSWITCH 1.10 installation on Debian 11 ( from source) ](https://github.com/Omid-Mohajerani/freeswitch/wiki/FreeSWITCH-1.10-installation-guide-from-source-on-debian-11)
-* [FreeSWITCH Installation Guide on Debian 12](https://github.com/Omid-Mohajerani/freeswitch/wiki/Installing-FreeSWITCH-1.10-on-Debian-11-from-Package)
+* [FreeSWITCH Installation Guide on Debian 12](https://github.com/Omid-Mohajerani/freeswitch/wiki/FreeSWITCH-Installation-Guide-on-Debian-12)
 * [An Introduction to FreeSWITCH Configuration folders and files.](https://github.com/Omid-Mohajerani/freeswitch/wiki/An-Introduction-to-FreeSWITCH-Configuration-folders-and-files.)
 * [Test Driving FreeSWITCH example configuration](https://github.com/Omid-Mohajerani/freeswitch/wiki/Test-Driving-FreeSWITCH-example-configuration)
 * [XML tutorial For FreeSWITCH](https://github.com/Omid-Mohajerani/freeswitch/wiki/XML-tutorial-for-FreeSWITCH)
