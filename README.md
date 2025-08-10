@@ -12,6 +12,7 @@
 * [Signalwire as gateway for FusionPBX](https://www.patreon.com/posts/signalwire-as-89376973?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
 
 ***
+* [FreeSWITCH to VAPI SIP Integration - Bring Your Own Trunk in VAPI](https://www.patreon.com/omidmohajerani/shop/freeswitch-to-vapi-sip-integration-bring-2124980?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link)
 * [FreeSWITCH Phrase Macro explained. ](https://www.youtube.com/watch?v=FEFRs7mWZHE)
 * [FreeSWITCH High Availability Configuration - Part 1 - PostgreSQL in the core](https://github.com/Omid-Mohajerani/freeswitch/wiki/FreeSWITCH-High-Availability-Configuration-Part-1----PostgreSQL-in-the-core)
 * [Ansible playbook for FreeSWITCH installation on Debian 10/11](https://github.com/Omid-Mohajerani/freeswitch/blob/main/Ansilbe-FreeSWITCH-Installation.yml)
