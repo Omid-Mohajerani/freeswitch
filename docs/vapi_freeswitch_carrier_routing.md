@@ -8,6 +8,13 @@ This guide shows how to:
 
 ---
 
+🎥 **Video Tutorial**  
+You can also watch the full step-by-step video here: [Connect VAPI BYO SIP Trunk to FreeSWITCH](https://www.youtube.com/watch?v=HkWcpuMrX7k&t=2s)
+
+---
+
+
+
 ## 1. Create the VAPI SIP Trunk
 
 Use the `POST /credential` endpoint to create a BYO SIP trunk in VAPI.
